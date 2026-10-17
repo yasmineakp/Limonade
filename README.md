@@ -46,4 +46,4 @@ Pour faire de la limonade, il faut suivre 4 étapes. On appuie sur l'image pour 
 
 ## Auteur
 
-Yasmine (GitHub : yasmineakp), étudiante en informatique.
+Akpossan Moya Yasmine (GitHub : yasmineakp), étudiante en informatique.
