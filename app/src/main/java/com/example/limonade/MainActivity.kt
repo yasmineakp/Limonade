@@ -95,15 +95,15 @@ fun LimonadeApp() {
                         nombrePression = 0
                         pressionsNecessaire = (2..4).random()
                     } else if (etape == 2) {
-                        // On presse le citron une fois de plus
+
                         nombrePression = nombrePression + 1
                         if (nombrePression>= pressionsNecessaire) {
-                            etape = 3 // assez pressé : la limonade est prête
+                            etape = 3
                         }
                     } else if (etape == 3) {
-                        etape = 4 // on boit la limonade
+                        etape = 4
                     } else {
-                        etape = 1 // on recommence
+                        etape = 1
                     }
                 }
             )
